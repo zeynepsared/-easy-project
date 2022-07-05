@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(229, 155, 166);
+}
+
+
+input{
+    width:600px;
+    height:30px;
+}
+
+.kutucuk{
+background-color:rgb(30, 30, 110);
+width:800px;
+height: 1900PX;
+}
+
+h2{
+   color: rgb(255, 255, 255);
+}
+
+.kutu2{
+    color: rgb(0, 0, 0);
+}
+
+.isim{
+    margin-right: 500px;
+}
+
+.E-posta{
+    margin-right: 490px;
+}
+
+.yaş{
+    margin-right: 400px;
+}
+
+select{
+    width:600px;
+    height:50px;
+}
+.box1{
+   font-size:25px;
+   color: rgb(255, 255, 255);
+}
+
+.box2{
+    width:600px;
+    height:100px;
+    text-align: center;
+}
+
+.radyo-1{
+    display: right;
+    position: absolute;
+}
+
+ .kutu1{
+    background-color: rgb(27, 233, 27);
+    width:400px;
+    height:50px;
+ }
+ .no{
+    width: 80px;
+    margin-top: -5px;
+ }
+.box4{
+    width:600px;
+    height:50px;
+}
